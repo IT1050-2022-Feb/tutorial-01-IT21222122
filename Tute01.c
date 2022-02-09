@@ -18,6 +18,6 @@ int main() { //Main funtion
 
   printf("Average is %.2f", avg); //Display average
 
-  return 0; //End 
+  return 0; //End Of the program
 }
 
